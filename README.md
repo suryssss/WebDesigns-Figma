@@ -18,7 +18,7 @@ This repository contains the Figma design for the Hashtag Café website.
   - Brand story and café lifestyle showcase
   - Online ordering prompt with image grid
  
-  ## 🔗 Figma Designs Preview  
+## 🔗 Figma Designs Preview  
 # Everlasting Jewellery Design 💍
 
 This repository contains the Figma design for the Everlasting Jewellery website.
